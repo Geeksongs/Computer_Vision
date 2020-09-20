@@ -12,11 +12,11 @@ The folder's name of this dataset is :FCN,which contains two folders.
 
 **Images:** The images of this dateset 
 
-![微信截图_20200920143559](https://github.com/Geeksongs/Computer_vision/blob/master/Semantic%20segmentation/FCN/123.png)
+![微信截图_20200920143559](https://github.com/Geeksongs/Computer_vision/blob/master/Semantic%20segmentation/FCN/456.png)
 
 ***If you like my code , please give me a star***,The final visualization is as follows:
 
-![123](https://github.com/Geeksongs/Computer_vision/blob/master/Semantic%20segmentation/FCN/456.png)
+![123](https://github.com/Geeksongs/Computer_vision/blob/master/Semantic%20segmentation/FCN/123.png)
 
 
 
