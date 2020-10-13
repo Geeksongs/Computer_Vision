@@ -6,7 +6,7 @@
 
 **2. The Date which I use is as followed:**
 
-The folder's name of this dataset is :FCN,which contains two folders.
+The folder's name of this dataset is :catdog,which contains two folders.
 
 **Annotation:** The data of this date set
 
