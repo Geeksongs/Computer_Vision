@@ -28,7 +28,7 @@ The folder's name of this dataset is :catdog,which contains two folders.
 
 
 
-2.在上述代码当中，我采用了猫狗数据集，数据集的文件夹名称为FCN,里面又有两个文件夹分别是annatation和images，分别用来储存哪些像素点应该具备的分类，images则是所有的图片。你可以打开看看。如果没有数据集，那么说明我没有上传成功，可以使用邮箱freemusic@foxmail.com和我进行联系，也可以直接在Github上发起issues（发起issue的方法：点击左上角的issue即可提出问题，我就会尽快回复）
+2.在上述代码当中，我采用了猫狗数据集，数据集的文件夹名称为FCN,里面又有两个文件夹分别是annatation和images，分别用来储存哪些像素点应该具备的分类，images则是所有的图片。你可以打开看看。如果没有数据集，那么说明我没有上传成功，可以使用邮箱freemusic@foxmail.com和我进行联系，也可以直接在Github上发起issues（发起issue的方法：点击左上角的issue,然后点击new issue即可提出问题，我就会尽快回复）
 
 
 
