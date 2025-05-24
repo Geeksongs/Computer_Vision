@@ -7,4 +7,8 @@ This repository includes the code of Computer Vision, such as Object Detection, 
 ![123](https://github.com/Geeksongs/Computer_vision/blob/master/Semantic%20segmentation/FCN/123.png)
 
 
-2. [MoCo]
+2. [MoCo](https://github.com/Geeksongs/Computer_Vision/tree/master/MoCo) for Contrastive Learning
+![123](https://github.com/Geeksongs/Computer_Vision/blob/master/MoCo/15181748114856_.pic.jpg)
+
+3, [VAE(Variational autoencoder)] for Image Generations
+![123](https://github.com/Geeksongs/Computer_Vision/blob/master/VAE/15161748114494_.pic_hd.jpg)
