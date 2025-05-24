@@ -8,6 +8,7 @@ This repository includes the code of Computer Vision, such as Image segmentation
 
 
 2. [MoCo](https://github.com/Geeksongs/Computer_Vision/tree/master/MoCo) for Contrastive Learning
+   
    2.1 [Clip](https://github.com/Geeksongs/Computer_Vision/tree/master/Clip) also for Contrastive Learning
 
 ![123](https://github.com/Geeksongs/Computer_Vision/blob/master/MoCo/15181748114856_.pic.jpg)
