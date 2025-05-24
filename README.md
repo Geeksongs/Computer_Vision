@@ -1,5 +1,5 @@
 # Computer_Vision
-This repository includes the code of Computer Vision, such as Image segmentation， Contrastive Learning, Clip, Vision Transformer, Huggingface Tutorial for NLP, Reinforcement Learning, and so on. The code is implemented by Tensorflow and mainly focuses on Pytorch. If you like it, Please give me a star, thanks!
+This repository includes the code of Computer Vision, such as Image segmentation, Contrastive Learning, Clip, Vision Transformer, Huggingface Tutorial for NLP, Reinforcement Learning, and so on. The code is implemented by Tensorflow and mainly focuses on Pytorch. If you like it, please give me a star, thanks!
 
 
 1. We have the [FCN（Fully Convolutional Network）](https://github.com/Geeksongs/Computer_Vision/tree/master/Semantic%20segmentation/FCN) example for Segmentations
